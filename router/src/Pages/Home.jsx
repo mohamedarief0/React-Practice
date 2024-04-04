@@ -18,6 +18,13 @@ function Home({ onResendOtp }) {
   useEffect(() => {
     if (seconds === 0) {
       onResendOtp();
+    }if (condition) {
+      
+    } else {
+      
+    }
+    if (condition) {
+      
     }
   }, [seconds, onResendOtp]);
 

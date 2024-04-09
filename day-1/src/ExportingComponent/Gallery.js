@@ -7,7 +7,7 @@ return <img src='https://source.unsplash.com/250x250?Programming' alt='protfolio
 const Gallery = () => {
   return (
     <div>
-        <h1 className='m-2'>hello</h1>git
+        <h1 className='m-2'>hello</h1>
         <Portfolio/>
         <Portfolio/>
         <Portfolio/>
